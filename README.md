@@ -2,7 +2,7 @@
 A professional 2-stage x86 bootloader written in Assembly, featuring a mini-shell, hardware detection (CPUID), and E820 memory mapping 
 
 
- # 16-Bit Legacy Bootloader (TerchNerds Edition)
+ # 16-Bit Legacy Bootloader
 
 A professional-grade, dual-stage bootloader written in **x86 Assembly**. This project demonstrates the low-level transition from BIOS hand-off to a functional Stage 2 shell
 
